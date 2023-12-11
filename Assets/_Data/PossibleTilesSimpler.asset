@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9a691e76eddfc0468af2436952d7b2f, type: 3}
+  m_Name: PossibleTilesSimpler
+  m_EditorClassIdentifier: 
+  <Tiles>k__BackingField:
+  - {fileID: 11400000, guid: ef52548cbbca19e47b9ac2d7785df2a4, type: 2}
+  - {fileID: 11400000, guid: 342790a4481c7ff4ba7a861ac24f1d4a, type: 2}
+  - {fileID: 11400000, guid: 9217791401292574786d3dc191ccaf61, type: 2}
+  - {fileID: 11400000, guid: ec26839f43e695d428eceb781fcb894f, type: 2}
+  - {fileID: 11400000, guid: 7f80c1a64be357249b101b65db23b4f3, type: 2}
+  - {fileID: 11400000, guid: 3d4080c470347d44d9f49c9bca6ec804, type: 2}
+  - {fileID: 11400000, guid: b27e6669f2f8c7e48920f5f026a1480f, type: 2}
+  - {fileID: 11400000, guid: ed8b3d97447c9fa47989df8e0f986506, type: 2}
+  - {fileID: 11400000, guid: b4fc8249745485a408530eba3a4619a5, type: 2}
+  - {fileID: 11400000, guid: a97f9ab7d1a911343b99f627e23c7823, type: 2}
