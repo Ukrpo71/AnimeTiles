@@ -9,6 +9,7 @@ public class PuzzleTilePresser : MonoBehaviour
     public Canvas TileCanvas => _canvas;
 
     [SerializeField] private Image _border;
+    [SerializeField] private Image _icon;
     [SerializeField] private Color _enabledColor;
     [SerializeField] private Color _disabledColor;
     [SerializeField] private Button _button;
@@ -42,5 +43,6 @@ public class PuzzleTilePresser : MonoBehaviour
     {
         _button.enabled = toggle;
         _border.color = toggle ? _enabledColor : _disabledColor;
+        _icon.color = toggle ? _enabledColor : _disabledColor;
     }
 }
