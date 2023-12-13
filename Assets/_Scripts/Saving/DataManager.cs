@@ -14,9 +14,10 @@ public class DataManager : PersistentSingleton<DataManager>
     public PlayerData SavedData;
 
     [SerializeField] private InventorySO _inventory;
+    [SerializeField] private ImageInventorySO _imageInventory;
     [SerializeField] private YandexManager _yandexManager;
 
-    private string _path => Application.persistentDataPath + Path.AltDirectorySeparatorChar + "CircusTilesSave.json";
+    private string _path => Application.persistentDataPath + Path.AltDirectorySeparatorChar + "AnimeTilesSave.json";
 
     protected override void Awake()
     {
@@ -113,6 +114,7 @@ public class DataManager : PersistentSingleton<DataManager>
         {
             Debug.Log("Save doesn't exists ... creating new game");
             _inventory.InitializeWithStartingData();
+            _imageInventory.InitializeWithStartingData();
             SavedData = new PlayerData(0,false, 0, _inventory.Items);
             SaveData(SavedData);
             LoadNextScene();

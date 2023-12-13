@@ -427,6 +427,7 @@ MonoBehaviour:
     Money: 0
     TipsData: []
   _inventory: {fileID: 11400000, guid: b6f88d5d027098147bf4f982bd24e954, type: 2}
+  _imageInventory: {fileID: 11400000, guid: 462c243db73b98548a9911b743c7d631, type: 2}
   _yandexManager: {fileID: 1093660508}
 --- !u!4 &771163618
 Transform:
