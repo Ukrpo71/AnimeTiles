@@ -115,7 +115,7 @@ public class DataManager : PersistentSingleton<DataManager>
             Debug.Log("Save doesn't exists ... creating new game");
             _inventory.InitializeWithStartingData();
             _imageInventory.InitializeWithStartingData();
-            SavedData = new PlayerData(0,false, 0, _inventory.Items);
+            SavedData = new PlayerData(0,false, 0, _inventory.Items, _imageInventory.Images);
             SaveData(SavedData);
             LoadNextScene();
         }
@@ -128,7 +128,7 @@ public class DataManager : PersistentSingleton<DataManager>
 
     public void SaveAsIfNextLevelCompleted()
     {
-        PlayerData dataToSave = new PlayerData(SavedData.Level + 1, SavedData.AdsTurnedOff, SavedData.Money, SavedData.TipsData);
+        PlayerData dataToSave = new PlayerData(SavedData.Level + 1, SavedData.AdsTurnedOff, SavedData.Money, SavedData.TipsData, SavedData.ImagesData);
         SaveData(dataToSave);
     }
 }

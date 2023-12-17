@@ -1,41 +1,39 @@
 ﻿using System.Linq;
 using UnityEngine;
 
-public class ImageInventoryRepairer : MonoBehaviour
+public class ImageInventoryRepairer
 {
-    [SerializeField] private ImageInventorySO _inventory;
-
-    public void CheckAndRepairInventory()
+    public void CheckAndRepairInventory(ImageInventorySO inventory)
     {
-        if (IsInventoryIntact())
+        if (IsInventoryIntact(inventory))
         {
-            Debug.Log("Inventory is intact");
+            Debug.Log("Image inventory is intact");
             return;
         }
         else
         {
-            Debug.Log("Inventory is broken");
-            RepairInventory();
+            Debug.Log("Image inventory is broken");
+            RepairInventory(inventory);
         }
     }
 
-    private bool IsInventoryIntact()
+    private bool IsInventoryIntact(ImageInventorySO inventory)
     {
-        foreach (var item in _inventory.Images)
+        foreach (var item in inventory.Images)
         {
-            var temp = _inventory.AvailableImages.FirstOrDefault(n => n.name == item.Name);
+            var temp = inventory.AvailableImages.FirstOrDefault(n => n.name == item.Name);
             if (item.Level == null) return false;
             if (item.Level.GetInstanceID() != temp.GetInstanceID()) return false;
         }
         return true;
     }
 
-    private void RepairInventory()
+    private void RepairInventory(ImageInventorySO inventory)
     {
-        for (int i = 0; i < _inventory.Images.Count; i++)
+        for (int i = 0; i < inventory.Images.Count; i++)
         {
-            UnlockableImageInventoryData item = _inventory.Images[i];
-            _inventory.Images[i] = new UnlockableImageInventoryData(_inventory.AvailableImages.FirstOrDefault(n => n.name == item.Name), 
+            UnlockableImageInventoryData item = inventory.Images[i];
+            inventory.Images[i] = new UnlockableImageInventoryData(inventory.AvailableImages.FirstOrDefault(n => n.name == item.Name), 
                                                                     item.IsUnlocked, item.Progress);
         }
     }

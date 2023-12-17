@@ -43,6 +43,8 @@ public class PuzzleTilePresser : MonoBehaviour
     {
         _button.enabled = toggle;
         _border.color = toggle ? _enabledColor : _disabledColor;
+        if (_icon == null)
+            _icon = transform.GetChild(0).GetComponent<Image>();
         _icon.color = toggle ? _enabledColor : _disabledColor;
     }
 }

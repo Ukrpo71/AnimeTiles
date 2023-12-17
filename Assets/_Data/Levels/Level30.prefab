@@ -694,8 +694,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 7039765446616899327}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 8744636309718927340}
   _canvas: {fileID: 6740268275353343323}
 --- !u!1 &204993337779827850
@@ -971,8 +972,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 7807570553862095270}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 4652556878452976192}
   _canvas: {fileID: 496355348524340081}
 --- !u!1 &226838150035565286
@@ -1252,8 +1254,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 6795069600912569265}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 672740346088917056}
   _canvas: {fileID: 6465436200908581695}
 --- !u!1 &254284633488177292
@@ -1412,8 +1415,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 4508676596946606216}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 564282078871989534}
   _canvas: {fileID: 3638632483575278081}
 --- !u!1 &257846973875206621
@@ -1768,8 +1772,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 4342391558660125404}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 8046980118131158833}
   _canvas: {fileID: 1738880965901911536}
 --- !u!1 &349598799762302692
@@ -2483,8 +2488,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 138254698210318341}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 7036437770160163013}
   _canvas: {fileID: 3928701547080439660}
 --- !u!1 &468773899909393164
@@ -3063,8 +3069,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 131570505379656667}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 3721813339530923030}
   _canvas: {fileID: 4959402563578444124}
 --- !u!1 &752144228964938712
@@ -3298,8 +3305,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 7239448239265015426}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6813162021566260759}
   _canvas: {fileID: 2308828829092584634}
 --- !u!1 &785836264228759277
@@ -3953,8 +3961,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 7400015172517298639}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 7139891586929611856}
   _canvas: {fileID: 7900955983094272536}
 --- !u!1 &989421778879143265
@@ -4524,8 +4533,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 1817836805186907417}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 7076522199369829394}
   _canvas: {fileID: 6478584106963810062}
 --- !u!1 &1361498091689451891
@@ -4759,8 +4769,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 3422124201452889744}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 9031710390843104412}
   _canvas: {fileID: 791853327972648977}
 --- !u!1 &1375910460354371975
@@ -5161,8 +5172,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8750435589374115055}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 5396664251090637392}
   _canvas: {fileID: 6106768396622859139}
 --- !u!1 &1403057516562110873
@@ -5429,8 +5441,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8757003992285246399}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 2162221260095728205}
   _canvas: {fileID: 8166015694310123204}
 --- !u!1 &1429942209124838165
@@ -6520,8 +6533,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 3060578553693734640}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 3122725362658317693}
   _canvas: {fileID: 1184734954639745573}
 --- !u!1 &1656247287215353172
@@ -6755,8 +6769,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 2454001629211904560}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 4519374985488082645}
   _canvas: {fileID: 2115761250502588533}
 --- !u!1 &1685419713071822024
@@ -7326,8 +7341,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 774282641939525413}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 8014236973483469332}
   _canvas: {fileID: 2466527502205444519}
 --- !u!1 &1868030420112761517
@@ -7486,8 +7502,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 7646117255502743610}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 1093737389363002047}
   _canvas: {fileID: 2749883734193675271}
 --- !u!1 &1877594724054091674
@@ -7802,8 +7819,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 5356632170702858736}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6439330590148413089}
   _canvas: {fileID: 544054393995202707}
 --- !u!1 &1938226548956918199
@@ -7962,8 +7980,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 245500258851934722}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 3806365737844843987}
   _canvas: {fileID: 4126459351612149181}
 --- !u!1 &1968793819825519672
@@ -8328,8 +8347,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 597382093771545839}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 5879345020312839273}
   _canvas: {fileID: 7915094468909117129}
 --- !u!1 &2111425335206330817
@@ -8972,8 +8992,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 2221881830830979722}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 2623978671332657533}
   _canvas: {fileID: 474662291508509055}
 --- !u!1 &2321438327139596186
@@ -9132,8 +9153,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 1221049266126890535}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 5365612722045665028}
   _canvas: {fileID: 8969641124688832862}
 --- !u!1 &2373540044013362037
@@ -9534,8 +9556,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 646972262870980834}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6435307055168571024}
   _canvas: {fileID: 4373089100751207995}
 --- !u!1 &2455808363614500084
@@ -9890,8 +9913,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8339433288048751157}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 7288183432611440628}
   _canvas: {fileID: 4330350842713301401}
 --- !u!1 &2556566611993965398
@@ -10386,8 +10410,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 1956608260344954838}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 7815327409053149859}
   _canvas: {fileID: 4515125674253846846}
 --- !u!1 &2702083324035781366
@@ -10713,8 +10738,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8037401094443509882}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 8730667051232577630}
   _canvas: {fileID: 2934387302159934848}
 --- !u!1 &2837734952883332630
@@ -11307,8 +11333,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8372071537744796542}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 1947527442788163048}
   _canvas: {fileID: 8181488942118752774}
 --- !u!1 &3031314346203749020
@@ -11502,8 +11529,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 3669863253884902194}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 4384832889104017795}
   _canvas: {fileID: 6679712443471482126}
 --- !u!1 &3081997787647184131
@@ -12431,8 +12459,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 2190687695189724948}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 5145395737824127222}
   _canvas: {fileID: 302328601313679141}
 --- !u!1 &3226411927509451692
@@ -13020,8 +13049,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 5589439018855095967}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 7234526849609411827}
   _canvas: {fileID: 5667523556310196127}
 --- !u!1 &3431078280525275785
@@ -13180,8 +13210,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 4439591103375713661}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 5902298604552973619}
   _canvas: {fileID: 6182269618342921289}
 --- !u!1 &3438717835333935758
@@ -13340,8 +13371,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 7967111079208876363}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 7766700401919502178}
   _canvas: {fileID: 5299161199413179549}
 --- !u!1 &3448936796676778685
@@ -13908,8 +13940,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 2327624525479813567}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 5921652679856148967}
   _canvas: {fileID: 3583740171937512778}
 --- !u!1 &3793659705368360864
@@ -14683,8 +14716,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 3431023458950865213}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 1419699859206722692}
   _canvas: {fileID: 1944004539269569529}
 --- !u!1 &4014250672819173697
@@ -15270,8 +15304,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 6263536333196936834}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6856715191777191701}
   _canvas: {fileID: 4469795849999705171}
 --- !u!1 &4177661233017392510
@@ -15856,8 +15891,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 3066879107252813927}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 1212395214069760191}
   _canvas: {fileID: 2800706325320045186}
 --- !u!1 &4393242842351662269
@@ -16258,8 +16294,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 924943001806080448}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 7710976593610466244}
   _canvas: {fileID: 1203933726866719389}
 --- !u!1 &4435285529769018158
@@ -16453,8 +16490,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 2631417079758621599}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6972797125603202626}
   _canvas: {fileID: 7794596738953272548}
 --- !u!1 &4490463377112556207
@@ -16879,8 +16917,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 708264749051162825}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 7831439546803578710}
   _canvas: {fileID: 269419966987377681}
 --- !u!1 &4597705238931214324
@@ -17235,8 +17274,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 2271680385453598906}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6425206052748920622}
   _canvas: {fileID: 759119586577131045}
 --- !u!1 &4662443759266590735
@@ -17776,8 +17816,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 99741723809349454}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 4448277116346777268}
   _canvas: {fileID: 7188805548450084354}
 --- !u!1 &4798328748744726771
@@ -18167,8 +18208,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 4146016718879161523}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 3895069260335966849}
   _canvas: {fileID: 3162941907087203565}
 --- !u!1 &4843490158189527963
@@ -18472,8 +18514,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 3306417928200981279}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6692484025441757240}
   _canvas: {fileID: 1761398559051010540}
 --- !u!1 &5000278541227466136
@@ -18742,8 +18785,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8276577460625492411}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 5832370048211503937}
   _canvas: {fileID: 7770486876424353018}
 --- !u!1 &5100760479702781744
@@ -19107,8 +19151,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 2615969669311078632}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 8228977885294180821}
   _canvas: {fileID: 2819950634049657725}
 --- !u!1 &5165727534923080182
@@ -19267,8 +19312,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 5780386077768610392}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 3084564446426826576}
   _canvas: {fileID: 4945416176636507513}
 --- !u!1 &5180394575718789411
@@ -19577,8 +19623,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8138322005768056105}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6420035116385844486}
   _canvas: {fileID: 2035324478087619490}
 --- !u!1 &5311376387606705623
@@ -19858,8 +19905,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 3938420293703745495}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 151714643455565067}
   _canvas: {fileID: 1755882976848019223}
 --- !u!1 &5320650627031795009
@@ -20053,8 +20101,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 4401158199737658158}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 992036337217394001}
   _canvas: {fileID: 3827714487486369310}
 --- !u!1 &5326678058914592377
@@ -20952,8 +21001,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 6985801203552226426}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 8081797769240464928}
   _canvas: {fileID: 1428994780419556454}
 --- !u!1 &5531552752987758667
@@ -21112,8 +21162,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 7499357963783263372}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 4913468951865938666}
   _canvas: {fileID: 1072328430067196078}
 --- !u!1 &5543519208193317797
@@ -21503,8 +21554,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8025922410876322441}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6278696117840331964}
   _canvas: {fileID: 433277460366872393}
 --- !u!1 &5696440395267140610
@@ -22206,8 +22258,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 1051213667612590748}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 5398272450850798161}
   _canvas: {fileID: 7894273348058050755}
 --- !u!1 &5849118525953469566
@@ -22608,8 +22661,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 4110016268416374380}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 1396411556979731909}
   _canvas: {fileID: 4539801254116364179}
 --- !u!1 &5911887877106942712
@@ -23059,8 +23113,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8181143389105242967}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 129824760009645426}
   _canvas: {fileID: 8407308476539132032}
 --- !u!1 &6027984173549799933
@@ -23826,8 +23881,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8288845632705664657}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 2822496548001094823}
   _canvas: {fileID: 5250453300907204544}
 --- !u!1 &6220931803226984636
@@ -24496,8 +24552,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8737982066470647128}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 279481971768000232}
   _canvas: {fileID: 8903624528600338930}
 --- !u!1 &6393871532009827952
@@ -24911,8 +24968,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 6059287693881402064}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6515705307609613882}
   _canvas: {fileID: 4718459413194777312}
 --- !u!1 &6574603125577429202
@@ -25106,8 +25164,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 4693837892549301807}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 8319987733552096035}
   _canvas: {fileID: 2912041012969452600}
 --- !u!1 &6590170379675726618
@@ -25301,8 +25360,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 4205460549170703225}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 3583161493569999608}
   _canvas: {fileID: 799237440999737634}
 --- !u!1 &6620688532593776584
@@ -26642,8 +26702,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 6414473896673893732}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 5776677403488410665}
   _canvas: {fileID: 3840433659882021870}
 --- !u!1 &7263834817652321716
@@ -26877,8 +26938,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 2455443251458222177}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 4403707085025256407}
   _canvas: {fileID: 1082938210734568667}
 --- !u!1 &7298175621126099402
@@ -27072,8 +27134,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 7410422739629823562}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 3580961116773413137}
   _canvas: {fileID: 1744591261665992841}
 --- !u!1 &7381950207425829928
@@ -27232,8 +27295,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 2863127454506613027}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 7462290125896571017}
   _canvas: {fileID: 4092726301792200633}
 --- !u!1 &7443086739303677168
@@ -27392,8 +27456,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 7168067015126131559}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 3560393482078821836}
   _canvas: {fileID: 236299535728094781}
 --- !u!1 &7455034437262211380
@@ -27552,8 +27617,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8601440228943389179}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6450951796247652071}
   _canvas: {fileID: 3455148480358375303}
 --- !u!1 &7614193945439123700
@@ -27787,8 +27853,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 3114338352008094131}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 2016011265435730800}
   _canvas: {fileID: 1928645362423725858}
 --- !u!1 &7649882146656822171
@@ -28264,8 +28331,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8993562325452167450}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 2969619841935255410}
   _canvas: {fileID: 2266357725564457876}
 --- !u!1 &7662133588924862741
@@ -28615,8 +28683,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 3391349156966357310}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 910284368734378895}
   _canvas: {fileID: 5773412217411237795}
 --- !u!1 &7712197364625720707
@@ -29222,8 +29291,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 5514274171843025209}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 8949649776088923633}
   _canvas: {fileID: 8223970189958199083}
 --- !u!1 &7853035824417041522
@@ -31154,8 +31224,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8352530621797153883}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 2025715440025940446}
   _canvas: {fileID: 476730201569211715}
 --- !u!1 &8381975993729095184
@@ -31827,8 +31898,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 5533635646479315021}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 3508912659374697353}
   _canvas: {fileID: 5473150304532812818}
 --- !u!1 &8501056559450987452
@@ -31987,8 +32059,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 4263785944136229166}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 4245156113605069928}
   _canvas: {fileID: 466444549626006280}
 --- !u!1 &8581535727545924257
@@ -32303,8 +32376,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 1568993531568580898}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 6199076289975738767}
   _canvas: {fileID: 790493118188325258}
 --- !u!1 &8635779603303671849
@@ -32538,8 +32612,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 280644621846354255}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 4999738327504567032}
   _canvas: {fileID: 2517348142912892975}
 --- !u!1 &8657314136762916157
@@ -32698,8 +32773,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 5979102382954800065}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 2111305691402277585}
   _canvas: {fileID: 4042453867302997753}
 --- !u!1 &8724998268626233488
@@ -33285,8 +33361,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 4699398549989389344}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 2128584250945586382}
   _canvas: {fileID: 1664755910528401346}
 --- !u!1 &8874512220304134541
@@ -33630,8 +33707,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 8152548342703707976}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 157464875833970220}
   _canvas: {fileID: 7278044178850096114}
 --- !u!1 &9018392626586464251
@@ -34091,8 +34169,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 6762235375872780479}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 8199704823666703161}
   _canvas: {fileID: 564461767902124679}
 --- !u!1 &9099345149704597578
@@ -34251,8 +34330,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 2217309907379635428}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 2421133497305855836}
   _canvas: {fileID: 6630172453139943881}
 --- !u!1 &9157647778020136409
@@ -34486,7 +34566,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _border: {fileID: 1949374817891585790}
+  _icon: {fileID: 0}
   _enabledColor: {r: 1, g: 1, b: 1, a: 1}
-  _disabledColor: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  _disabledColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 1}
   _button: {fileID: 2750402371900145014}
   _canvas: {fileID: 1749752469890554795}

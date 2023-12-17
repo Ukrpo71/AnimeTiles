@@ -14,12 +14,12 @@ public class WinScreen : MonoBehaviour
     [SerializeField] private GameObject _coins;
     [SerializeField] private Button _nextLevelButton;
     [SerializeField] private IntVariable _currentLevel;
+    [SerializeField] private GameObject _background;
 
     public void Show()
     {
-        DOTween.Sequence().AppendCallback(() => _ribbon.gameObject.SetActive(true))
-                          .AppendInterval(1f)
-                          .AppendCallback(() => _nextLevelButton.gameObject.SetActive(true))
+        _background.SetActive(true);
+        DOTween.Sequence().AppendCallback(() => _nextLevelButton.gameObject.SetActive(true))
                           .AppendCallback(() => _levelFinishedText.gameObject.SetActive(true))
                           .AppendCallback(() => _attractorParticles.Play())
                           .AppendCallback(() => _coins.SetActive(true))
@@ -35,6 +35,7 @@ public class WinScreen : MonoBehaviour
         _nextLevelButton.gameObject.SetActive(false);
         _levelFinishedText.gameObject.SetActive(false);
         _coins.SetActive(false);
+        _background.SetActive(false);
     }
 
 

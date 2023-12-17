@@ -5,6 +5,7 @@ public class GalleryButton : MonoBehaviour
 {
     [SerializeField] private Button _button;
     [SerializeField] private Gallery _gallery;
+    [SerializeField] private GalleryTip _tip;
 
     private void OnEnable()
     {
@@ -19,5 +20,7 @@ public class GalleryButton : MonoBehaviour
     private void ShowGallery()
     {
         _gallery.ShowGallery();
+        PlayerPrefs.SetInt("GalleryTip", 0);
+        _tip.UpdateAvailability();
     }
 }

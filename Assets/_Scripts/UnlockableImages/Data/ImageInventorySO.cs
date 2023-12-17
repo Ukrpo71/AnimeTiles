@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using static UnityEditor.Progress;
 
 [CreateAssetMenu]
 public class ImageInventorySO : ScriptableObject
@@ -13,6 +14,8 @@ public class ImageInventorySO : ScriptableObject
 
     [SerializeField] private List<UnlockableImageSO> _availableImages;
 
+    private ImageInventoryRepairer _inventoryRepairer = new ImageInventoryRepairer();
+
     public void InitializeWithStartingData()
     {
         Images.Clear();
@@ -21,6 +24,12 @@ public class ImageInventorySO : ScriptableObject
         {
             Images.Add(new UnlockableImageInventoryData(item, false, 0));
         }
+    }
+
+    public void LoadInventory(List<UnlockableImageInventoryData> images)
+    {
+        Images = images;
+        _inventoryRepairer.CheckAndRepairInventory(this);
     }
 
     public bool DoesNextImageExists()
@@ -65,6 +74,9 @@ public class ImageInventorySO : ScriptableObject
     {
         int index = Images.IndexOf(levelData);
         Images[index] = Images[index].ChangeProgress(increment);
+        if (Images[index].Progress == 1)
+            PlayerPrefs.SetInt("GalleryTip", 1);
         InventoryChanged?.Invoke();
+        
     }
 }

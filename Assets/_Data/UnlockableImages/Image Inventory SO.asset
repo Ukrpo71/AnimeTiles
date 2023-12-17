@@ -12,7 +12,39 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ffa40517d768904ca5f36728b4368cf, type: 3}
   m_Name: Image Inventory SO
   m_EditorClassIdentifier: 
-  Images: []
+  Images:
+  - Level: {fileID: 11400000, guid: d6cbd75248b5fd24cbc4534c2c580426, type: 2}
+    Name: Image 1
+    IsUnlocked: 1
+    Progress: 1
+  - Level: {fileID: 11400000, guid: dcdde1c5bc0f36042a3315858e234530, type: 2}
+    Name: Image 2
+    IsUnlocked: 1
+    Progress: 1
+  - Level: {fileID: 11400000, guid: ed2e29b89c8a29a4788887276b1b3e3a, type: 2}
+    Name: Image 3
+    IsUnlocked: 1
+    Progress: 1
+  - Level: {fileID: 11400000, guid: cad9731ab2db2c74282333744eca97a8, type: 2}
+    Name: Image 4
+    IsUnlocked: 1
+    Progress: 1
+  - Level: {fileID: 11400000, guid: 41899279ba6d7514689623d923bd9af0, type: 2}
+    Name: Image 5
+    IsUnlocked: 0
+    Progress: 1
+  - Level: {fileID: 11400000, guid: ec8f66f1c4054534daf2962418c07bdb, type: 2}
+    Name: Image 6
+    IsUnlocked: 0
+    Progress: 0
+  - Level: {fileID: 11400000, guid: 0ce58d6408b2c7a40aa568c370d7049f, type: 2}
+    Name: Image 7
+    IsUnlocked: 0
+    Progress: 0
+  - Level: {fileID: 11400000, guid: 00f74fdbc019ca145b5fa1f153162a40, type: 2}
+    Name: Image 8
+    IsUnlocked: 0
+    Progress: 0
   _availableImages:
   - {fileID: 11400000, guid: d6cbd75248b5fd24cbc4534c2c580426, type: 2}
   - {fileID: 11400000, guid: dcdde1c5bc0f36042a3315858e234530, type: 2}

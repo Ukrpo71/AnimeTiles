@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Image 3
   m_EditorClassIdentifier: 
   <Image>k__BackingField: {fileID: 21300000, guid: 9d1f8daa86d030c48a05c0d75507f578, type: 3}
-  <AmountToIncreaseProgress>k__BackingField: 0.1
+  <AmountToIncreaseProgress>k__BackingField: 0.25
