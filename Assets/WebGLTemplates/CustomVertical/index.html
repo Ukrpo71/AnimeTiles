@@ -27,6 +27,20 @@
       var fullscreenButton = document.querySelector("#unity-fullscreen-button");
       var warningBanner = document.querySelector("#unity-warning");
 
+      window.onbeforeunload = function(e) {
+          
+          // These are the messages you're seeing in the gif
+          console.log("Calling OnClose from Browser!");
+          gameInstance.SendMessage("SessionsHandler", "OnClose");
+
+          // This never shows up correctly for me, but it does prompt
+          // the player to close their window with a dialogue box
+          //
+          //var dialogText = "You game has been saved!  Would you like to continue unloading the page?";
+          //e.returnValue = dialogText;
+          //return dialogText;
+      };
+      
       // Shows a temporary message banner/ribbon for a few seconds, or
       // a permanent error message on top of the canvas if type=='error'.
       // If type=='warning', a yellow highlight color is used.
@@ -127,6 +141,7 @@
           progressBarFull.style.width = 100 * progress + "%";
         }).then((unityInstance) => {
           loadingBar.style.display = "none";
+          gameInstance = unityInstance;
         }).catch((message) => {
           alert(message);
         });
